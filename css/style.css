@@ -1,0 +1,44 @@
+.pink{
+	width:200px;
+	height: 200px;
+	border:1px solid black;
+	padding:20px;
+	background-color:#FF1493; 
+
+}
+.brown{
+	width:200px;
+	height: 200px;
+	border:1px solid black;
+	padding:20px;
+	background-color:#7CFC00; 
+}
+.principe{
+	width:900px;
+	border:1px solid black;
+	padding:20px;
+	background-color:#00FFFF; 
+}
+.rey{
+	width:200px;
+	height: 200px;
+	border:1px solid black;
+	padding:5px 10px;
+	background-color:#8A2BE2;
+	display:inline-block; 
+	margin: auto 30px;
+}
+.reyna{
+	width:200px;
+	height: 200px;
+	border:1px solid black;
+	padding:10px;
+	background-color:#DC143C;
+	display:inline-block; 
+	margin:20px auto;
+}
+div{
+	width:900px;
+	border:1px solid white;
+	background-color:white; 
+}
